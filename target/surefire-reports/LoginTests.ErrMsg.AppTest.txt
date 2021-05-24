@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: LoginTests.ErrMsg.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.036 s - in LoginTests.ErrMsg.AppTest
